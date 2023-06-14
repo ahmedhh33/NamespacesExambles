@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\bin\Debug\net6.0\NamespacesExamoles.exe
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\bin\Debug\net6.0\NamespacesExamoles.deps.json
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\bin\Debug\net6.0\NamespacesExamoles.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\bin\Debug\net6.0\NamespacesExamoles.dll
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\bin\Debug\net6.0\NamespacesExamoles.pdb
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.dll
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\refint\NamespacesExamoles.dll
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.pdb
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\NamespacesExamoles.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\NamespacesExamoles\NamespacesExamoles\obj\Debug\net6.0\ref\NamespacesExamoles.dll
